@@ -8,4 +8,4 @@ namespace Livraria.emprestimo.web.Models
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
     }
-}
+}   
