@@ -8,4 +8,8 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.BrowserLink" Version="2.2.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Livraria_controle_emprestimo.DATA\Livraria_controle_emprestimo.DATA.csproj" />
+  </ItemGroup>
+
 </Project>
